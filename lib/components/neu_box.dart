@@ -14,8 +14,10 @@ class NeuBox extends StatelessWidget {
           BoxShadow(
             color: Colors.grey.shade500,
             blurRadius: 15,offset: const Offset(4, 4)
-          ),const BoxShadow(
-            color: Colors.white,blurRadius: 15,offset: Offset(-4, -4)
+          ),
+          const BoxShadow(
+            color: Colors.white,
+            blurRadius: 15,offset: Offset(-4, -4)
           )
         ]
       ),
