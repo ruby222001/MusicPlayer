@@ -3,19 +3,26 @@ import 'package:flutter/material.dart';
 import 'package:musicplayer/models/song.dart';
 class PlaylistProvider extends ChangeNotifier{
   final List<Song> _playlist=[
-Song(
-  songname: "Try Again",
- artistname: "jehyun",
- albumImagepath:"assets/images/image2.jpg",
-  audioPath: "audio/likecrazy.mp3",
-  ),
+
     Song(
   songname: "Try Again",
- artistname: "jehyun",
- albumImagepath:"assets/images/image3.jpg",
+ artistname: "jaehyun",
+ albumImagepath:"assets/images/jaehyun.jpg",
   audioPath: "audio/Tryagain.mp3",
   ),
-    
+   
+   Song(
+  songname: "Love Yourself",
+ artistname: "BTS",
+ albumImagepath:"assets/images/bts.jpg",
+  audioPath: "audio/Tryagain.mp3",
+  ), 
+  Song(
+  songname: "Lover",
+ artistname: "taylor Swift",
+ albumImagepath:"assets/images/tay.jpg",
+  audioPath: "audio/likecrazy.mp3",
+  ),
   
 ];
 //current song playing index

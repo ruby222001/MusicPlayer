@@ -44,6 +44,7 @@ body: SafeArea(
         ),
       ],
     ),
+    const SizedBox(height:20),
     NeuBox(child: Column(
       children: [
         ClipRRect(
