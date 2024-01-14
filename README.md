@@ -1,16 +1,12 @@
 # musicplayer
 
-A new Flutter project.
+A Music player app using Flutter with neumorphism to create an Elevation effect.
 
-## Getting Started
+Light Mode
 
-This project is a starting point for a Flutter application.
+![Screenshot 2024-01-14 182340](https://github.com/ruby222001/MusicPlayer/assets/113155583/054d952e-ec2d-4fa5-a9ae-5f95912566be)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Dark Mode
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/ruby222001/MusicPlayer/assets/113155583/2afe5a5f-00fe-40fe-b3df-7a415c8b5279)
